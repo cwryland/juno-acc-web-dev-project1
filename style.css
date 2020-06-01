@@ -26,4 +26,19 @@ h1 {
     font-size: 68px;
     font-weight: 700;
     font-family: 'Raleway', sans-serif;
+    color: darkgrey;
+}
+
+a {
+    font-size: 19px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: darkgrey;
+}
+
+p.logo {
+    font-size: 38px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: darkgrey;
 }
