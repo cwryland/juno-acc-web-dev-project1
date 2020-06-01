@@ -21,3 +21,9 @@ body {
     width: 90%;
     margin: 0 auto;
 }
+
+h1 {
+    font-size: 68px;
+    font-weight: 700;
+    font-family: 'Raleway', sans-serif;
+}
